@@ -1,8 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b026ff&height=200&section=header&text=Phantom%20Client&fontSize=50&fontAlignY=38&desc=Advanced%20Memory%20Injection%20%26%20Automation&descAlignY=60&descAlign=62&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b026ff&height=180&section=header&text=Phantom%20Client&fontSize=60&fontAlignY=40&fontColor=ffffff" alt="Header Banner" />
 </div>
 
 <h1 align="center">Phantom Client ⚡</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blueviolet?style=for-the-badge&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/UI-CustomTkinter-ff69b4?style=for-the-badge" alt="UI">
+  <img src="https://img.shields.io/badge/Platform-Windows-0078d7?style=for-the-badge&logo=windows" alt="Windows">
+  <img src="https://img.shields.io/badge/Status-Undetected-success?style=for-the-badge" alt="Status">
+</p>
 
 <p align="center">
   <a href="#features">Features</a> •
