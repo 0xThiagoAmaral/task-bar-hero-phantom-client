@@ -15,6 +15,10 @@
   <strong>Phantom Client</strong> is a state-of-the-art memory manipulation and automation mod menu designed specifically for <em>Task Bar Hero</em>. Featuring a sleek glassmorphism UI, real-time memory scanning, and multi-instance sandbox support, it provides the ultimate speed-hacking and farming experience.
 </p>
 
+<div align="center">
+  <img src="assets/TaskBarHero_VyT6zCiyM2.gif" alt="Phantom Client in Action" width="800"/>
+</div>
+
 ---
 
 ## ✨ Features
